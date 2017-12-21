@@ -1,0 +1,12 @@
+{
+    "ID":"ff4e384e-763e-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword":"rp",
+    "Name":"Release Port",
+    "Description":"释放端口占用",
+    "Author":"apologizebao",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"http://blog.apologizebao.cn",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"releaseport.py"
+}
