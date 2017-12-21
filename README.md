@@ -1,5 +1,5 @@
 # ReleasePort
-Wox 插件 释放端口
+[Wox](https://github.com/Wox-launcher/Wox) 插件 释放端口
 
 + 放置到 `wox plugin` 目录
 + 命令 `rp 端口号`
